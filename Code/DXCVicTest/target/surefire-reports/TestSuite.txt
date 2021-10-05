@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.886 s <<< FAILURE! - in TestSuite
+Practice.DXCVicTest.PermitTypePageTest.Initialize  Time elapsed: 0.636 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "String.contains(java.lang.CharSequence)" because "browserName" is null
+	at Practice.DXCVicTest.PermitTypePageTest.Initialize(PermitTypePageTest.java:19)
+

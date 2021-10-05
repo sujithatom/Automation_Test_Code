@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-26T14:34:32 AEST" name="Suite" finished-at="2021-08-26T14:34:51 AEST" duration-ms="19776">
+    <groups>
+    </groups>
+    <test started-at="2021-08-26T14:34:32 AEST" name="Test" finished-at="2021-08-26T14:34:51 AEST" duration-ms="19776">
+      <class name="Practice.DXCVicTest.PermitTypePageTest">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:Practice.DXCVicTest.PermitTypePageTest@2f217633]" started-at="2021-08-26T14:34:32 AEST" name="Initialize" finished-at="2021-08-26T14:34:34 AEST" duration-ms="2673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="PermitTest()[pri:0, instance:Practice.DXCVicTest.PermitTypePageTest@2f217633]" started-at="2021-08-26T14:34:51 AEST" name="PermitTest" finished-at="2021-08-26T14:34:51 AEST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PermitTest -->
+      </class> <!-- Practice.DXCVicTest.PermitTypePageTest -->
+      <class name="Practice.DXCVicTest.CalculateFeePageTest">
+        <test-method signature="CalculateFee()[pri:0, instance:Practice.DXCVicTest.CalculateFeePageTest@7ea9e1e2]" started-at="2021-08-26T14:34:34 AEST" name="CalculateFee" finished-at="2021-08-26T14:34:51 AEST" duration-ms="17022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculateFee -->
+      </class> <!-- Practice.DXCVicTest.CalculateFeePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
